@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./fix.scss";
+import "@gravity-ui/uikit/styles/styles.css";
 import "@gravity-ui/page-constructor/styles/styles.scss";
 import "./globals.css";
 
@@ -15,9 +16,9 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="ru">
-            {/* <head>
+            <head>
                 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" />
-            </head> */}
+            </head>
             <body>{children}</body>
         </html>
     );
