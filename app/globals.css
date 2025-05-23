@@ -6,8 +6,8 @@
 
 .g-root_theme_light {
 
-  --g-font-family-sans: 'Montserrat', sans-serif;
-  --g-font-family-monospace: 'Montserrat', sans-serif;
+  /* --g-font-family-sans: 'Montserrat', sans-serif;
+  --g-font-family-monospace: 'Montserrat', sans-serif; */
 
   --g-color-private-brand-50: rgba(0, 140, 250, 0.1);
   --g-color-private-brand-100: rgba(0, 140, 250, 0.15);
@@ -58,8 +58,8 @@
 
 .g-root_theme_dark {
 
-  --g-font-family-sans: 'Merriweather', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  --g-font-family-monospace: 'Ubuntu Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace;
+  /* --g-font-family-sans: 'Merriweather', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  --g-font-family-monospace: 'Ubuntu Mono', 'Menlo', 'Monaco', 'Consolas', 'Ubuntu Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', 'Courier', monospace; */
 
   --g-color-private-brand-50: rgba(0, 140, 250, 0.1);
   --g-color-private-brand-100: rgba(0, 140, 250, 0.15);

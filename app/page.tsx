@@ -12,7 +12,7 @@ export default function Home() {
                     background: {
                         light: {
                             color: "#EFF2F8",
-                            image: "/header.png.webp",
+                            image: "header.png.webp",
                         },
                     },
                     blocks: [
@@ -39,28 +39,28 @@ export default function Home() {
                         {
                             children: [
                                 {
-                                    icon: "/01-18.png.webp",
+                                    icon: "01-18.png.webp",
                                     text: "Факультет физической культуры и спорта Мурманского арктического университета – единственное учебное заведение в регионе, готовящее специалистов высшего образования в области физической культуры и спорта.",
                                     title: "Факультет физической культуры и спорта",
                                     type: "basic-card",
                                     url: "https://mauniver.ru/structure/faculties/ffks/",
                                 },
                                 {
-                                    icon: "/01-15.png.webp",
+                                    icon: "01-15.png.webp",
                                     text: "Институт педагогики и психологии Мурманского арктического университета готовит специалистов для системы образования: учителей, воспитателей, психологов, дефектологов, логопедов. ",
                                     title: "Институт педагогики и психологии",
                                     type: "basic-card",
                                     url: "https://example.com",
                                 },
                                 {
-                                    icon: "/01-14.png.webp",
+                                    icon: "01-14.png.webp",
                                     text: "Медико-биологический институт Мурманского арктического университета отвечает потребностям региона в квалифицированных медицинских кадрах и специалистах в области микробиологии и биохимии.",
                                     title: "Медико-биологический институт",
                                     type: "basic-card",
                                     url: "https://mauniver.ru/structure/insts/mbi/",
                                 },
                                 {
-                                    icon: "/01-20.png.webp",
+                                    icon: "01-20.png.webp",
                                     text: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                                     title: "Lorem ipsum dolor sit amet",
                                     type: "basic-card",
@@ -91,7 +91,7 @@ export default function Home() {
                                     },
                                     fullscreen: true,
                                     media: {
-                                        previewImg: "/204.jpg.webp ",
+                                        previewImg: "204.jpg.webp ",
                                         youtube: "https://vk.com/video-32978_456239750",
                                     },
                                     type: "layout-item",
@@ -103,7 +103,7 @@ export default function Home() {
                                     },
                                     fullscreen: true,
                                     media: {
-                                        previewImg: "/181.jpg.webp",
+                                        previewImg: "181.jpg.webp",
                                         youtube: "https://youtu.be/0Qd3T6skprA",
                                     },
                                     type: "layout-item",
@@ -115,7 +115,7 @@ export default function Home() {
                                     },
                                     fullscreen: true,
                                     media: {
-                                        previewImg: "/118.jpg.webp",
+                                        previewImg: "118.jpg.webp",
                                         youtube: "https://youtu.be/0Qd3T6skprA",
                                     },
                                     type: "layout-item",
@@ -135,7 +135,7 @@ export default function Home() {
                             },
                             disableCompress: true,
                             image: {
-                                light: "/05.jpg",
+                                light: "05.jpg",
                             },
                             subtitle:
                                 "<p>Для получения дополнительных подробностей о мероприятии присоединяйтесь к нашему <a>Telegram-каналу</a> для абитуриентов. </p> ",

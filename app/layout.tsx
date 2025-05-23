@@ -15,9 +15,9 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="ru">
-            <head>
+            {/* <head>
                 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" />
-            </head>
+            </head> */}
             <body>{children}</body>
         </html>
     );
