@@ -8,8 +8,7 @@
         "build": "next build",
         "build:static": "next build && next export",
         "start": "next start",
-        "lint": "next lint",
-        "deploy": "npm run build:static && gh-pages -d out"
+        "lint": "next lint"
     },
     "dependencies": {
         "@diplodoc/transform": "^4.57.7",
