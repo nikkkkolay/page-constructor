@@ -1,12 +1,12 @@
-const repoName = "page-constructor"; // замени на своё
+const repoName = "page-constructor";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: "export", // важно для Next.js 13+ App Router
+    output: "export",
     basePath: `/${repoName}`,
-    assetPrefix: `/${repoName}/`,
+    assetPrefix: `/${repoName}`,
     images: {
-        unoptimized: true, // обязательно для next export
+        unoptimized: true,
     },
 };
 
